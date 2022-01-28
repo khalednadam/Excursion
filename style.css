@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+.title{
+    color: white;
+    font-weight: normal;
+    font-size: 50px;
+}
+.coming-soon-link a{
+    color: aquamarine;
+    font-size: 16px;
+}
+h2{
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+.exp{
+    font-size: 21px;
+    color: gray;
+}
+.foot{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
